@@ -11,6 +11,7 @@ add the root of a project to add a [`.prettierrc`](https://prettier.io) file to 
 I like to use Prettier in all my projects to make code formatted in a consistent way. I configured my VS Code to format automatically with the Prettier extension.
 
 [I also wrote an article about this.](https://site.lgk.io/blog/mach-deinen-code-prettier/) It's in German though.
+
 ![Graphic visualizing pretty formatting a code](https://site.lgk.io/img/oOzfprwcvr-300.jpeg)
 
 Unfortunately I don't like the default formatting, so I always have my own `.prettierc` in each project, since you can't have a global Prettier config.
