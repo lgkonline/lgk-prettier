@@ -6,6 +6,17 @@ npx -y lgk-prettier
 ```
 add the root of a project to add a [`.prettierrc`](https://prettier.io) file to it.
 
+## Add VS Code settings and extension
+
+Adding the parameter `--vscode` or `-c` will also add this to the workspace:
+
+* `.vscode/settings.json` with `"editor.formatOnSave": true`
+* `.vscode/settings.json` with `"recommendations": ["esbenp.prettier-vscode"]`
+
+## Status
+
+[![npm version](https://img.shields.io/npm/v/lgk-prettier?logo=npm&logoColor=fff)](https://www.npmjs.com/package/lgk-prettier)
+
 ## Why does this exist?
 
 I like to use Prettier in all my projects to make code formatted in a consistent way. I configured my VS Code to format automatically with the Prettier extension.
