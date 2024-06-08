@@ -1,0 +1,27 @@
+{
+    "name": "lgk-prettier",
+    "version": "1.0.1",
+    "description": "Command that adds LGK's preferred Prettier config",
+    "main": "index.js",
+    "bin": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lgkonline/lgk-prettier.git"
+    },
+    "keywords": [
+        "prettier",
+        "config",
+        "format",
+        "formatting",
+        "tool"
+    ],
+    "author": {
+        "name": "Lars LGK",
+        "url": "https://lgk.io"
+    },
+    "bugs": {
+        "url": "https://github.com/lgkonline/lgk-prettier/issues"
+    },
+    "homepage": "https://github.com/lgkonline/lgk-prettier#readme",
+    "license": "MIT"
+}
